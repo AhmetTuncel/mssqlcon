@@ -1,0 +1,10 @@
+Package: mssqlcon
+Type: Package
+Title: mssql connecion
+Version: 0.1.0
+Author: Ahmet Tuncel
+Maintainer: Ahmet Tuncel <ahmet.tuncel@outlook.com>
+Description: Provide a ms sql server connecion
+License: 
+Encoding: UTF-8
+LazyData: true
